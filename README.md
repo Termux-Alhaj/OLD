@@ -39,7 +39,7 @@ FB Group == FB-CRACK_Termux All Free Command
 
 <> rm -rf OLD
 
-<> git https://github.com/Termux-Alhaj/OLD.git
+<> git clone https://github.com/Termux-Alhaj/OLD.git
 
 <> cd OLD
 
